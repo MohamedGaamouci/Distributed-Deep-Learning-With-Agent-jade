@@ -1,5 +1,3 @@
-# Distributed-Deep-Learning-With-Agent-jade
-
 # Distributed Deep Learning with JADE Agents
 
 ## Overview
