@@ -16,7 +16,7 @@ The system consists of the following agents:
 - Splits the dataset into subsets for training agents.
 - Sends data to the training agents.
 
-### 3. **Trainer Agents (2)**
+### 3. **Trainer Agents (3)**
 - Receive data subsets from the Data Distributor Agent.
 - Train individual models on their respective subsets.
 - Send trained models back to the Model Aggregator Agent.
